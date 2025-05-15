@@ -1,0 +1,6 @@
+phonenumbers
+requests
+art
+opencage
+python-dotenv   # إذا استخدمت .env لاحقًا
+
